@@ -1,4 +1,14 @@
-[ 
+[   {
+    "carga_horaria": 210,
+    "coordenacao": "Selma Rodrigues de Castilho",
+    "descricao_completa": "O Programa de Forma",
+    "descricao_resumida": "O Programa de Forma\u00e7\u00e3o Continuada para Diretores Escolares e T\u00e9cnicos das Secretarias de Educa\u00e7\u00e3o - PRODITEC, tem por finalidade contribuir para o aprimoramento da gest\u00e3o administrativa, financeira e pedag\u00f3gica das escolas p\u00fablicas da educa\u00e7 ...ler mais",
+    "detalhes": "Dia: 6/ 8 a 17/12 - Hor\u00e1rio: 18:30 \u00e0s 21:30 Local: O link de acesso ser\u00e1 enviado aos",
+    "link_inscricao": "https://www.extensao.uff.br/inscricao/?curso=11760",
+    "titulo": "Curso de Aperfei\u00e7oamento em Mentoria de Diretores Escolares (2025.2 - Turma A)",
+    "vagas_disponiveis": 32,
+    "vagas_total": 280
+  },
   {
     "carga_horaria": 210,
     "coordenacao": "Selma Rodrigues de Castilho",
@@ -738,4 +748,5 @@
   },
   {}
 ]
+
 
